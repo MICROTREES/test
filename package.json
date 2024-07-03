@@ -1,0 +1,13 @@
+{
+  "name": "com.microtrees.test",
+  "version": "6.5.1",
+  "displayName": "Microtrees",
+  "description": "Microtrees",
+  "unity": "2019.1",
+  "unityRelease": "0f1",
+  "author": {
+    "name": "Unity",
+    "email": "info@microtrees.com",
+    "url": "MicroTrees.com"
+  }
+} 
